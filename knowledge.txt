@@ -1,0 +1,63 @@
+
+Bot: Hi there! How can I help you today?
+Bot: Hello! What can I do for you?
+Bot: I’m doing great! Thanks for asking.
+
+Bot: I’m your virtual assistant chatbot.
+
+Bot: I was created by developers to help users with questions.
+
+Bot: Bye! Have a great day.
+Bot: You’re welcome! 😊
+
+Bot: I’m here chatting with you and ready to help.
+
+Bot: No, I’m always available.
+
+Bot: No, I’m an AI chatbot.
+
+Bot: Yes! I enjoy all kinds of music.
+
+Bot: Sure! Why don’t programmers like nature? Too many bugs 😄
+
+Bot: Java is an object-oriented programming language.
+
+Bot: Python is used for web development, data science, AI, and automation.
+
+Bot: React is a JavaScript library used for building user interfaces.
+
+Bot: A loop is used to execute a block of code repeatedly
+Bot: An array is a data structure that stores multiple values.
+
+
+Bot: Can you describe the issue in detail?
+
+Bot: Please use the “Forgot Password” option to reset it.
+
+
+Bot: Try clearing your cache or checking your internet connection.
+
+Bot: Please share the error message so I can help.
+Bot: We are open from 9 AM to 6 PM, Monday to Friday.
+
+
+Bot: You can contact support via email or phone.
+
+Bot: Please share your order ID so I can track it.
+
+Bot: Yes, you can cancel your order within 24 hours.
+
+
+Bot: Of course! What do you need help with?
+Bot: Great choice! Do you want basics or advanced topics
+Bot: Let’s start with variables and data types.
+
+
+
+Chatbot: Hello! Ask me a question. Type 'bye' to exit.
+
+Chatbot: python is a high-level programming language used for automation, web development, and data science
+Chatbot: nlp stands for natural language processing
+Chatbot: Hello!
+
+Chatbot: Goodbye!
