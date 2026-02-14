@@ -52,3 +52,5 @@ Structuring a Python NLP project for GitHub
 
 
 # Output
+
+<img width="1013" height="516" alt="Image" src="https://github.com/user-attachments/assets/bee6c041-5147-48de-84ae-5f33505ecbd3" />
